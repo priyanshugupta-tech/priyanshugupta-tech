@@ -87,7 +87,7 @@ A modern blogging platform with authentication, rich text editing, image uploads
 `Jun 2026 → Jul 2026`
 
 **Repository**  
- 🔗 [Repo](https://github.com/techyyp/WriteIt)
+ 🔗 [Repo](https://github.com/priyanshugupta-tech/WriteIt)
 
 **Live Demo**  
  🌐 [Live](https://writeit-delta.vercel.app)
@@ -111,7 +111,7 @@ A production-grade video streaming platform with secure authentication, video up
 `Aug 2026 → Present`
 
 **Repository**  
-🔗 [Repo](https://github.com/techyyp/WatchIt)
+🔗 [Repo](https://github.com/priyanshugupta-tech/WatchIt)
 
 **Live Demo**  
 🚧 Coming Soon
@@ -165,17 +165,17 @@ A production-grade video streaming platform with secure authentication, video up
 
 <div align="center">
 
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=techyyp&theme=github_dark" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=priyanshugupta-tech&theme=github_dark" />
 
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=techyyp&theme=github_dark" />
-
-<br><br>
-
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=techyyp&theme=github_dark" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=priyanshugupta-tech&theme=github_dark" />
 
 <br><br>
 
-<img width="98%" src="https://streak-stats.demolab.com?user=techyyp&theme=github-dark&hide_border=true" />
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyanshugupta-tech&theme=github_dark" />
+
+<br><br>
+
+<img width="98%" src="https://streak-stats.demolab.com?user=priyanshugupta-tech&theme=github-dark&hide_border=true" />
 
 </div>
 
